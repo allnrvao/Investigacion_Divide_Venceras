@@ -1,0 +1,10 @@
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\bin\Debug\CalculadoraExpresiones.exe.config
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\bin\Debug\CalculadoraExpresiones.exe
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\bin\Debug\CalculadoraExpresiones.pdb
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.Form1.resources
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.Properties.Resources.resources
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.exe
+C:\Users\gemel\Documents\Divide y venceras\CalculadoraExpresiones\CalculadoraExpresiones\obj\Debug\CalculadoraExpresiones.pdb
