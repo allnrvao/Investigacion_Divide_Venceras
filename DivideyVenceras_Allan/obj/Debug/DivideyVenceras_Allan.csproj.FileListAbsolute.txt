@@ -8,3 +8,13 @@ C:\Users\jpnic\OneDrive\Desktop\Divide y venceras\DivideyVenceras_Allan\obj\Debu
 C:\Users\jpnic\OneDrive\Desktop\Divide y venceras\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.csproj.CoreCompileInputs.cache
 C:\Users\jpnic\OneDrive\Desktop\Divide y venceras\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.exe
 C:\Users\jpnic\OneDrive\Desktop\Divide y venceras\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.pdb
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.exe
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\obj\Debug\DivideyVenceras_Allan.pdb
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\bin\Debug\DivideyVenceras_Allan.exe.config
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\bin\Debug\DivideyVenceras_Allan.exe
+C:\Users\jpnic\OneDrive\Desktop\ejercicio del paradigma\DivideyVenceras_Allan\bin\Debug\DivideyVenceras_Allan.pdb

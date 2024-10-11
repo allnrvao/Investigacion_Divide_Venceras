@@ -49,7 +49,7 @@ namespace DivideyVenceras_Allan
 
         private void SortAll(List<Employee> list)
         {
-            list.Sort((x, y) => x.Name.CompareTo(y.Position);
+            list.Sort((x, y) => x.Name.CompareTo(y.Position));
         }
 
         private void BtnLookUp_Click(object sender, EventArgs e)
@@ -63,7 +63,7 @@ namespace DivideyVenceras_Allan
                 // Mostrar el resultado en el Label
                 if (foundEmployee != null)
                 {
-                    LbWrkLookedup.Text = $"Empleado encontrado: {foundEmployee.Name} - {foundEmployee.Position}";
+                    LbWrkLookedup.Text = $" {foundEmployee.Name} - {foundEmployee.Position}";
                 }
                 else
                 {
