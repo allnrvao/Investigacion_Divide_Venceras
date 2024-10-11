@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\bin\Debug\Sistema de incripcion UAM.exe.config
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\bin\Debug\Sistema de incripcion UAM.exe
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\bin\Debug\Sistema de incripcion UAM.pdb
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema de incripcion UAM.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema_de_incripcion_UAM.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema de incripcion UAM.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema de incripcion UAM.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema de incripcion UAM.exe
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema de incripcion UAM.pdb
+C:\Users\guill\OneDrive\Documentos\Ejercio UAM\Investigacion_Divide_Venceras\Sistema de incripcion UAM\Sistema de incripcion UAM\obj\Debug\Sistema_de_incripcion_UAM.LbESst.resources
