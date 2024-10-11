@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\bin\Debug\EjemploFernando.exe.config
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\bin\Debug\EjemploFernando.exe
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\bin\Debug\EjemploFernando.pdb
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.Form1.resources
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.Properties.Resources.resources
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.exe
+C:\Users\Dell\Documents\Exposición\Investigacion_Divide_Venceras\EjemploFernando\obj\Debug\EjemploFernando.pdb

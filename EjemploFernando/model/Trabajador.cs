@@ -8,12 +8,25 @@ namespace EjemploFernando.model
 {
     internal class Trabajador
     {
-        public struct Empleado
+        
+        public string Nombre {  get; set; }
+        public double Salario {  get; set; }
+        public int Anno {  get; set; }
+        
+
+        public void AgregarNombre(string nombre)
         {
-            public string Nombre {  get; set; }
-            public double Salario {  get; set; }
-            public int edad {  get; set; }
+            this.Nombre = nombre;
+        } 
+        
+        public void AgregarSalario(double salario)
+        {
+            this.Salario = salario;
         }
 
+        public void AgregarAnno(int anno)
+        {
+            this.Anno = anno;
+        }
     }
 }
